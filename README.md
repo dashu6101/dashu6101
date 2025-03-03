@@ -41,9 +41,6 @@ With 7+ years of experience in software development, I specialize in building sc
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 
-## 📈 GitHub Stats
-![Nimesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimeshPatel&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Profile](#)
 - Email: [Your Email](mailto:your-email@example.com)
