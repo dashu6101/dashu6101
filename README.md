@@ -43,7 +43,6 @@ With 7+ years of experience in software development, I specialize in building sc
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email](mailto:your-email@example.com)
+- Email: [Your Email](mailto:dashu.web@gmail.com)
 
 Let's build something amazing together! 🚀
