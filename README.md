@@ -45,29 +45,25 @@ I’ve successfully delivered projects across a wide range of industries:
 - 🏘️ **Real Estate** 
 - 🤖 **AI-Powered Solutions**
 
----
-
 ## 🛠️ Systems I Build
 
 I design and develop full-scale, production-ready platforms including:
 
-- 💼 **SaaS Platforms** – Workflow automation, subscription billing, and multi-tenant support  
-- 🏢 **ERP & CRM Systems** – Role-based access, approval flows, reporting, and task management  
-- 🛒 **E-Commerce Applications** – Custom carts, payments (Stripe, PayPal), inventory, and order flows  
-- 📦 **CMS Solutions** – Headless or dynamic content management for blogs, marketing, and landing pages  
-- 🧠 **AI-Integrated Apps** – LLM-enabled features using OpenAI, Microsoft AI, and Google LLMs  
-
----
+- 💼 **SaaS Platforms** : Workflow automation, subscription billing, and multi-tenant support  
+- 🏢 **ERP & CRM Systems** : Role-based access, approval flows, reporting, and task management  
+- 🛒 **E-Commerce Applications** : Custom carts, payments (Stripe, PayPal), inventory, and order flows  
+- 📦 **CMS Solutions** : Headless or dynamic content management for blogs, marketing, and landing pages  
+- 🧠 **AI-Integrated Apps** : LLM-enabled features using OpenAI, Microsoft AI, and Google LLMs  
 
 ## 💡 Why Work With Me?
 
-✅ **Full-Stack Expertise** – I build both the frontend your users love and the backend your business relies on  
-✅ **Product-First Mindset** – I don’t just follow specs, I suggest what’s best for your goals  
-✅ **Worked with Global Clients** – Trusted by teams across the US, Europe, and Asia  
-✅ **Built for Scale & Security** – My code is fast, secure, and ready to grow with your business  
-✅ **API Integration Pro** – From Stripe to Twilio, I make complex tools work seamlessly together  
-✅ **Freelancer You Can Rely On** – Clear communication, timely delivery, and long-term support  
-✅ **Clean, Future-Ready Code** – Everything I build is easy to maintain, extend, and scale  
+✅ **Full-Stack Expertise** : I build both the frontend your users love and the backend your business relies on  
+✅ **Product-First Mindset** : I don’t just follow specs, I suggest what’s best for your goals  
+✅ **Worked with Global Clients** : Trusted by teams across the US, Europe, and Asia  
+✅ **Built for Scale & Security** : My code is fast, secure, and ready to grow with your business  
+✅ **API Integration Pro** : From Stripe to Twilio, I make complex tools work seamlessly together  
+✅ **Freelancer You Can Rely On** : Clear communication, timely delivery, and long-term support  
+✅ **Clean, Future-Ready Code** : Everything I build is easy to maintain, extend, and scale  
 
 
 ## 📫 Let's Connect
