@@ -42,6 +42,7 @@ I’ve successfully delivered projects across a wide range of industries:
 - 📚 **EdTech**
 - 🚚 **Logistics**
 - 🎬 **Multimedia**
+- 🏘️ **Real Estate** 
 - 🤖 **AI-Powered Solutions**
 
 ---
