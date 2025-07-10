@@ -4,7 +4,9 @@
 
 I am an expert **Full Stack Developer** with **8+ years** of experience in building scalable, high-performance applications across **web and mobile applications**. My expertise spans modern frameworks, cloud platforms, and database management, ensuring robust and efficient solutions. Whether it's building from the scratch or optimizing existing systems, I bring a strong product mindset and a deep understanding of software architecture.
 
-## 🛠 Tech Stack & Expertise
+----
+
+## 🎯 Tech Stack & Expertise
 
 ### 🛠️ Backend Technologies
 .NET Core • .NET MVC • Node.js • NestJS • Python • WPF
@@ -33,6 +35,8 @@ Stripe • Google Maps / Mapbox • SendGrid • Mailchimp • Twilio • Fireba
 ### 🤖 AI Experience
 OpenAI • Microsoft AI Services • Google LLM • Stable Diffusion • Midjourney
 
+----
+
 ## 🌍 Domain Expertise
 
 I’ve successfully delivered projects across a wide range of industries:
@@ -45,6 +49,8 @@ I’ve successfully delivered projects across a wide range of industries:
 - 🏘️ **Real Estate** 
 - 🤖 **AI-Powered Solutions**
 
+----
+
 ## 🛠️ Systems I Build
 
 I design and develop full-scale, production-ready platforms including:
@@ -54,6 +60,8 @@ I design and develop full-scale, production-ready platforms including:
 - 🛒 **E-Commerce Applications** : Custom carts, payments (Stripe, PayPal), inventory, and order flows  
 - 📦 **CMS Solutions** : Headless or dynamic content management for blogs, marketing, and landing pages  
 - 🧠 **AI-Integrated Apps** : LLM-enabled features using OpenAI, Microsoft AI, and Google LLMs  
+
+----
 
 ## 💡 Why Work With Me?
 
@@ -65,6 +73,7 @@ I design and develop full-scale, production-ready platforms including:
 ✅ **Freelancer You Can Rely On** : Clear communication, timely delivery, and long-term support  
 ✅ **Clean, Future-Ready Code** : Everything I build is easy to maintain, extend, and scale  
 
+----
 
 ## 📫 Let's Connect
 ✉️ [dashu.web@gmail.com](mailto:dashu.web@gmail.com)
