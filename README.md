@@ -1,48 +1,78 @@
 # 👋 Hi, I'm Darshan Patel
 
-### 🚀 Senior Software Engineer | Full-Stack Developer
+### 🚀 Senior Software Engineer | Full Stack Developer | .Net, React, Angular, Node.js, Flutter 
 
-With 7+ years of experience in software development, I specialize in building scalable, high-performance applications across frontend and backend technologies. My expertise spans modern frameworks, cloud platforms, and database management, ensuring robust and efficient solutions.
+I am an expert **Full Stack Developer** with **8+ years** of experience in building scalable, high-performance applications across **web and mobile applications**. My expertise spans modern frameworks, cloud platforms, and database management, ensuring robust and efficient solutions. Whether it's building from the scratch or optimizing existing systems, I bring a strong product mindset and a deep understanding of software architecture.
 
 ## 🛠 Tech Stack & Expertise
 
-### 💻 Backend Technologies
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=.net&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![WPF](https://img.shields.io/badge/WPF-0081CB?style=flat&logo=windows&logoColor=white)  
+### 🛠️ Backend Technologies
+.NET Core • .NET MVC • Node.js • NestJS • Python • WPF
 
-### 🌐 Frontend Technologies
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+### 💻 Frontend Technologies
+React • Angular • Next.js • Vue.js • TypeScript • JavaScript • jQuery • HTML5 • CSS3 • SCSS • Bootstrap • TailwindCSS • Material UI • Figma/XD to Code 
 
 ### 🗄️ Database Management
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+PostgreSQL • MongoDB • MySQL • MSSQL Server • Supabase • Firestore
 
 ### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+Azure • AWS • Google Cloud • Jenkins 
 
-## 📫 Connect with Me
-- Email: [dashu.web@gmail.com](mailto:dashu.web@gmail.com)
+### 💻 Mobile App
+Flutter • React Native  
+
+### ⚙️ Tools & IDEs
+GIT • VS Code • Cursor • Xcode • Android Studio
+
+### 📦 Dev & Ops
+Docker • DevOps Pipelines • Socket.io • REST & GraphQL APIs
+
+### 🔌 Plugins & Integrations
+Stripe • Google Maps / Mapbox • SendGrid • Mailchimp • Twilio • Firebase Push Notifications • Any Third Party API Integration
+
+### 🤖 AI Experience
+OpenAI • Microsoft AI Services • Google LLM • Stable Diffusion • Midjourney
+
+## 🌍 Domain Expertise
+
+I’ve successfully delivered projects across a wide range of industries:
+
+- 🏥 **Healthcare**
+- 💳 **Fintech**
+- 📚 **EdTech**
+- 🚚 **Logistics**
+- 🎬 **Multimedia**
+- 🤖 **AI-Powered Solutions**
+
+---
+
+## 🛠️ Systems I Build
+
+I design and develop full-scale, production-ready platforms including:
+
+- 💼 **SaaS Platforms** – Workflow automation, subscription billing, and multi-tenant support  
+- 🏢 **ERP & CRM Systems** – Role-based access, approval flows, reporting, and task management  
+- 🛒 **E-Commerce Applications** – Custom carts, payments (Stripe, PayPal), inventory, and order flows  
+- 📦 **CMS Solutions** – Headless or dynamic content management for blogs, marketing, and landing pages  
+- 🧠 **AI-Integrated Apps** – LLM-enabled features using OpenAI, Microsoft AI, and Google LLMs  
+
+---
+
+## 💡 Why Work With Me?
+
+✅ **Full-Stack Expertise** – I build both the frontend your users love and the backend your business relies on  
+✅ **Product-First Mindset** – I don’t just follow specs, I suggest what’s best for your goals  
+✅ **Worked with Global Clients** – Trusted by teams across the US, Europe, and Asia  
+✅ **Built for Scale & Security** – My code is fast, secure, and ready to grow with your business  
+✅ **API Integration Pro** – From Stripe to Twilio, I make complex tools work seamlessly together  
+✅ **Freelancer You Can Rely On** – Clear communication, timely delivery, and long-term support  
+✅ **Clean, Future-Ready Code** – Everything I build is easy to maintain, extend, and scale  
+
+
+## 📫 Let's Connect
+✉️ [dashu.web@gmail.com](mailto:dashu.web@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/darshanvpatel/)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dashu6101)
 
 Let's build something amazing together! 🚀
