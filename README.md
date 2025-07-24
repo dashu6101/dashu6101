@@ -26,7 +26,7 @@ Flutter • React Native
 ### ⚙️ Tools & IDEs
 GIT • VS Code • Cursor • Xcode • Android Studio
 
-### 📦 Dev & Ops
+### 📦 DevOps
 Docker • DevOps Pipelines • Socket.io • REST & GraphQL APIs
 
 ### 🔌 Plugins & Integrations
